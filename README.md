@@ -1,4 +1,5 @@
 # EDPBot
+
 Hi! Welcome to the help/github page of EDPBot.
 
 Here, you will see all the commands and features of EDPBot, and how to use them.
@@ -15,7 +16,7 @@ Command Usage - To use the help command, just do "edphelp"
 
 ### Ban Command 
 
-Description - As the name suggests, this command is used for banning users in a server. The person being banned must have a lower permission than the bot itself.
+Description - As the name suggests, this command is used for banning users in a server. The person being banned must have a lower permission than EDPBot itself.
 
 Command Usage - To ban someone, just do "edpban @(user) (reason)".
 
@@ -27,7 +28,7 @@ Command Usage - To unban someone, just do "edpunban @(banned user) (reason)".
 
 ### Kick Command 
 
-Description - As the name suggests, this command is used for kicking users in a server. The person being kicked must have a lower permission than the bot itself.
+Description - As the name suggests, this command is used for kicking users in a server. The person being kicked must have a lower permission than EDPBot itself.
 
 Command Usage - To ban someone, just do "edpkick @(user) (reason)".
 
@@ -46,11 +47,13 @@ Command Usage - To use the fact command, just do "edpfact".
 
 ## Bonus Features
 
+A list of some of the fun bonus features of the EDPbot.
+
 ### Auto Responder
 
-If you say the following keywords, (hi, hello, hey, sup), then EDPbot will respond with a welcoming message.
+If you say the following keywords, (hi, hello, hey, sup), then EDPBot will respond with a welcoming message.
 
 ### Bot Mention
 
-If you mention/ping EDPbot, EDPbot will respond with a positive message.
+If you mention/ping EDPBot, EDPBot will respond with a positive message.
 
