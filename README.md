@@ -7,7 +7,6 @@ Here, you will see all the commands and features of EDPBot, and how to use them.
 
 This section shows the different commands of EDPBot.
 
-
 ### Help Command
 
 Description - This command will link the user to this github page. 
@@ -38,4 +37,20 @@ Description - This command is used to randomly picked from a list of numbers (de
 
 Command Usage - To use the chooser command, just do "edpchoose(2,3,4,5)". edpchoose2 will select from the numbers 1 and 2, edpchoose3 will select from the numbers 1,2 and 3 and the list goes on. 
 
+
+### Fact Command
+
+Decscription - Cyberbullier 2.0
+
+Command Usage - To use the fact command, just do "edpfact".
+
+## Bonus Features
+
+### Auto Responder
+
+If you say the following keywords, (hi, hello, hey, sup), then EDPbot will respond with a welcoming message.
+
+### Bot Mention
+
+If you mention/ping EDPbot, EDPbot will respond with a positive message.
 
