@@ -1,2 +1,4 @@
 # EDPBot
-EDPBot Repository
+This is a guide to using the EDPBot
+
+]
