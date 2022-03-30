@@ -41,9 +41,15 @@ Command Usage - To use the chooser command, just do "edpchoose(2,3,4,5)". edpcho
 
 ### Fact Command
 
-Decscription - Cyberbullier 2.0
+Description - Cyberbullier 2.0
 
 Command Usage - To use the fact command, just do "edpfact".
+
+## Joke Command
+
+Description - Hilarious jokes. 
+
+Command Usage - To use the joke command, just do "edpjoke".
 
 ## Bonus Features
 
