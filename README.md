@@ -57,7 +57,7 @@ A list of some of the fun bonus features of the EDPbot.
 
 ### Auto Responder
 
-If you say the following keywords, (hi, hello, hey, sup, gm, morning, gn, good night), then EDPBot will respond with a welcoming message.
+If you say the following keywords, (hi, hello, hey, sup, gm, morning, good morning, gn, good night), then EDPBot will respond with a welcoming message.
 
 ### Bot Mention
 
