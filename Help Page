@@ -45,7 +45,7 @@ Description - Cyberbullier 2.0
 
 Command Usage - To use the fact command, just do "edpfact".
 
-## Joke Command
+### Joke Command
 
 Description - Hilarious jokes. 
 
@@ -57,7 +57,7 @@ A list of some of the fun bonus features of the EDPbot.
 
 ### Auto Responder
 
-If you say the following keywords, (hi, hello, hey, sup), then EDPBot will respond with a welcoming message.
+If you say the following keywords, (hi, hello, hey, sup, gm, morning, gn, good night), then EDPBot will respond with a welcoming message.
 
 ### Bot Mention
 
